@@ -99,7 +99,7 @@ dash-racing-game/
 
 ## 👩‍💻 Author
 
-**Faith M.** — [GitHub](https://github.com/Creativedelight)  
+**Faith M.** — [GitHub](https://github.com/Creativedelight)
 Passionate about building interactive web apps and arcade-inspired games.
 
 ---
